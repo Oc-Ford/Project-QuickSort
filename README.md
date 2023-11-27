@@ -1,6 +1,6 @@
 # Project QuickSort
-Quicksort-Project
-This C++ program processes well data from a file, performs sorting based on flow rates, and outputs the results. The program consists of three main classes: 'GasWell', 'WellData', and the main application.
+*/Quicksort-Project
+#This C++ program processes well data from a file, performs sorting based on flow rates, and outputs the results. The program consists of three main classes: 'GasWell', 'WellData', and the main application.
 
 GasWell Class
 The 'GasWell' class represents a gas well and includes methods for adding well data, sorting wells based on flow rates using the QuickSort Algorithm, and printing sorted well data.
@@ -48,3 +48,4 @@ Dependencies:
 Execution:
 
 Open the "10000_random_wells.txt" for input. Process the well data and display the imported data. Sort the wells based on flow rates. Display the sorted well data.
+/*
